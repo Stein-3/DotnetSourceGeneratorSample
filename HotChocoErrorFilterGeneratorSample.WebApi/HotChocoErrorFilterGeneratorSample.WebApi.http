@@ -1,0 +1,6 @@
+@HotChocoErrorFilterGeneratorSample.WebApi_HostAddress = http://localhost:5056
+
+GET {{HotChocoErrorFilterGeneratorSample.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
